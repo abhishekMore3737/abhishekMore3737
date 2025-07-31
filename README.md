@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Abhishek More
+  <img src="https://komarev.com/ghpvc/?username=abhishekMore3737&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekMore3737" style="float: left;"/>
 
 ## 💫 About Me:
 🎓 I graduated in Artificial Intelligence & Machine Learning from PES Modern College of Engineering, Pune.<br><br>💻 I'm skilled in:<br>- **Java**, **Python**, and **SQL**<br>- **Frontend Development** (HTML, CSS, JavaScript)<br><br>🧠 For my final year project, I created **Jinny AI** — an intelligent virtual assistant designed to assist users through natural language conversations. Jinny AI uses AI/ML techniques to understand user queries and provide relevant, human-like responses, making it a smart and helpful solution for personal or enterprise use.<br><br>🚀 I'm passionate about building innovative tech solutions and continuously learning new technologies.<br>
